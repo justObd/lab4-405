@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+form{
+    width: 500PX;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input , select textarea{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid blanchedalmond;
+    border-radius: 7px;
+}
+
+input [type="Submit"]{
+    background-color: bisque;
+    columns: white;
+    cursor: pointer;
+}
+
+textarea{
+    height: 200px;
+}
